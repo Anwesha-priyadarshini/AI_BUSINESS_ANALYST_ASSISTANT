@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+database/business_data.db
+category_sales.html
+category_sales_ai.html
