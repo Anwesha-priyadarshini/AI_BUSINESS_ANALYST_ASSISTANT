@@ -6,6 +6,12 @@ The application converts natural-language questions into SQL queries, validates 
 
 ---
 
+## 📸 Dashboard Preview
+
+![AI Business Analyst Assistant Dashboard](dashboard.png)
+
+---
+
 ## 📌 Business Problem
 
 Business analysts often spend significant time answering repetitive questions such as:
