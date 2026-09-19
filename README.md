@@ -65,3 +65,15 @@ AI Business Insight
 Streamlit Dashboard
       ↓
 Visualization
+
+---
+
+## 📊 Key Business Insights
+
+- **Electronics** generated the highest sales at approximately ₹165K.
+- **Clothing** generated the highest total profit at approximately ₹11.2K.
+- **Furniture** had the lowest profit margin at approximately 1.81%.
+- Within Furniture, **Tables** generated approximately ₹22.6K in sales but recorded a loss of approximately ₹4.0K.
+- **Tamil Nadu and Madhya Pradesh** together accounted for approximately 90.7% of the total loss from Furniture Tables.
+
+---
